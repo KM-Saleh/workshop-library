@@ -67,7 +67,7 @@ Welcome to the [Next Generation Team's Workshop Library](presentation.pptx), bui
 
 ---
 <details>
-<summary><h2>Resources on how to teach and mentor effectively</h2></summary>
+<summary><h2>Resources on how to teach and mentor effectively! </h2></summary>
 <br>
 
 
